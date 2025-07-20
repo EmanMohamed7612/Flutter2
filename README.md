@@ -15,7 +15,7 @@ A Flutter-based mobile authentication UI built with clean code, modular design, 
 
 | Splash Screen | Welcome Screen |
 |---------------|----------------|
-| ![Splash](https://github.com/EmanMohamed7612/Flutter2/blob/main/lib/Screens/Screenshot%202025-07-21%20002835.png) | ![Welcome](screenshots/welcome.png) |
+| ![Splash](https://github.com/EmanMohamed7612/Flutter2/blob/main/lib/Screens/Screenshot%202025-07-21%20002835.png) | ![Welcome](https://github.com/EmanMohamed7612/Flutter2/blob/main/lib/Screens/Screenshot%202025-07-21%20005313.png) |
 
  Sign Up Screen |
 ![SignUp](https://github.com/EmanMohamed7612/Flutter2/blob/main/lib/Screens/Screenshot%202025-07-21%20002901.png) |
