@@ -19,7 +19,7 @@ A Flutter-based mobile authentication UI built with clean code, modular design, 
 
 | Login Screen | Sign Up Screen |
 |--------------|----------------|
-| ![Login](screenshots/login.png) | ![SignUp](screenshots/signup.png) |
+| ![Login](screenshots/login.png) | ![SignUp](https://github.com/EmanMohamed7612/Flutter2/blob/main/lib/Screens/Screenshot%202025-07-21%20002901.png) |
 
 | OTP Screen |
 |------------|
