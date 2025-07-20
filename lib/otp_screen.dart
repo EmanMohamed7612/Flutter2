@@ -43,10 +43,8 @@ class OtpScreenSimple extends StatelessWidget {
                 fieldWidth: 45,
                 textStyle: const TextStyle(color: Colors.white, fontSize: 20),
                 onCodeChanged: (String code) {
-                  // الكود بيتغير هنا
                 },
                 onSubmit: (String verificationCode) {
-                  // لما المستخدم يكمل كتابة الكود
                   debugPrint("OTP هو: $verificationCode");
                 },
               ),
