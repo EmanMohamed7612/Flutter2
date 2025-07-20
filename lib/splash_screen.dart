@@ -16,7 +16,7 @@ class SplashScreen extends StatelessWidget {
         },
         child: Stack(
           children: [
-            // خلفية الصورة
+          
             SizedBox.expand(
               child: Image.asset(
                 'images/535082.jpeg.webp',
@@ -24,12 +24,12 @@ class SplashScreen extends StatelessWidget {
               ),
             ),
 
-            // تغطية خفيفة عشان النص يبان بوضوح
+        
             Container(
               color: Colors.black.withOpacity(0.3),
             ),
 
-            // نص "دعنا نبدأ"
+            
             Center(
               child: Text(
                 'دعنا نبدأ',
