@@ -11,20 +11,19 @@ class WelcomeScreen extends StatelessWidget {
     return Scaffold(
       body: Stack(
         children: [
-          // ✅ خلفية الصورة (تملى الشاشة كلها)
           SizedBox.expand(
             child: Image.asset(
-              'images/535082.jpeg.webp', // غيّر المسار حسب اسم الصورة
+              'images/535082.jpeg.webp',
               fit: BoxFit.cover,
             ),
           ),
 
-          // ✅ تغطية بلون شفاف خفيف (اختياري، بيزود وضوح النص)
+ 
           Container(
             color: Colors.black.withOpacity(0.3),
           ),
 
-          // ✅ المحتوى النصي و الأزرار
+       
           Center(
             child: Padding(
               padding: const EdgeInsets.symmetric(horizontal: 24.0),
@@ -42,7 +41,7 @@ class WelcomeScreen extends StatelessWidget {
                   ),
                   const SizedBox(height: 40),
 
-                  // زر تسجيل الدخول
+       
                   SizedBox(
                     width: double.infinity,
                     child: ElevatedButton(
