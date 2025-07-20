@@ -51,7 +51,7 @@ class RegisterScreenContent extends StatelessWidget {
           ),
           const SizedBox(height: 15),
 
-          // تأكيد كلمة المرور
+      
           TextField(
             obscureText: true,
             decoration: const InputDecoration(
@@ -62,10 +62,9 @@ class RegisterScreenContent extends StatelessWidget {
           ),
           const SizedBox(height: 25),
 
-          // زر الإنشاء
           ElevatedButton(
             onPressed: () {
-              // TODO: تنفيذ التسجيل
+            
             },
             style: ElevatedButton.styleFrom(
               backgroundColor: AppColors.secnderyColor,
