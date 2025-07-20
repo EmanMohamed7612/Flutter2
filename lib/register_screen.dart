@@ -10,7 +10,7 @@ class RegisterScreen extends StatelessWidget {
     return Scaffold(
       body: Column(
         children: [
-          // صورة الخلفية
+         
           Expanded(
             flex: 3,
             child: Container(
@@ -23,7 +23,7 @@ class RegisterScreen extends StatelessWidget {
               ),
             ),
           ),
-          // الفورم
+          
           Expanded(
             flex: 5,
             child: Container(
