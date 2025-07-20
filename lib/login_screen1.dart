@@ -10,7 +10,6 @@ class LoginScreen extends StatelessWidget {
     return Scaffold(
       body: Column(
         children: [
-          // صورة الخلفية
           Expanded(
             flex: 3,
             child: Container(
@@ -23,7 +22,6 @@ class LoginScreen extends StatelessWidget {
               ),
             ),
           ),
-          // الفورم
           Expanded(
             flex: 4,
             child: Container(
