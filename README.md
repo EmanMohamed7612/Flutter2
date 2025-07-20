@@ -1,7 +1,40 @@
 # task
 
 A new Flutter project.
+# Flutter Authentication UI Screens
 
+A Flutter-based mobile authentication UI built with clean code, modular design, and RTL (Right-to-Left) Arabic support. This app contains the following screens:
+
+- Splash Screen
+- Welcome Screen
+- Login Screen
+- Sign Up Screen
+- OTP Verification Screen
+
+## 📱 Screenshots
+
+| Splash Screen | Welcome Screen |
+|---------------|----------------|
+| ![Splash](screenshots/splash.png) | ![Welcome](screenshots/welcome.png) |
+
+| Login Screen | Sign Up Screen |
+|--------------|----------------|
+| ![Login](screenshots/login.png) | ![SignUp](screenshots/signup.png) |
+
+| OTP Screen |
+|------------|
+| ![OTP](screenshots/otp.png) |
+
+> ⚠️ Replace the images in the `screenshots/` folder with your actual screen captures.
+
+## 🛠️ Features
+
+- RTL layout for Arabic text support
+- Custom reusable components (like `ForgetPasswordRow`)
+- Modular structure: colors, strings, styles separated
+- Background image integrated using `BoxDecoration`
+- OTP input with animation and countdown timer
+- Navigation between all screens
 ## Getting Started
 
 This project is a starting point for a Flutter application.
